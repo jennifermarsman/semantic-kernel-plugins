@@ -17,7 +17,7 @@ See [this tutorial](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchest
 **When:** Submissions are open July 18, 2023 12 AM PST to July 25, 2023 12 AM PST.
 
 **Why:** Microsoft is standardizing around the [plugin architecture](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/plugins?tabs=Csharp) for all of its internal AI copilots
-and encourage developers to use them for their own applications. This hackathon serves to jumpstart a larger plugin ecosystem that are valuable to the broader community.
+and encourage developers to use them for their own applications. This hackathon serves to jumpstart a larger plugin ecosystem that is valuable to the broader community.
 
 **How:** Follow the getting started guides for creating a plugin
 - [C# - Semantic Kernel ChatGPT plugin starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-csharp-chatgpt-plugin)
@@ -28,6 +28,7 @@ and encourage developers to use them for their own applications. This hackathon 
 We'll have the following categories
 - **Most useful for the enterprise**: Interview on the Semantic Kernel DevBlog & an SK T-Shirt
 - **Most fun and creative:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
+- **Commmunity Favorite:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
 
 ## Code of Conduct
 
