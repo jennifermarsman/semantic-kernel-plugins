@@ -1,6 +1,6 @@
 # Semantic Kernel Plugins
 
-Plugins are at the heart of unlocking more potential with your Semantic Kernel applications.
+Plugins are at the heart of unlocking more potential with your [Semantic Kernel](https://github.com/microsoft/semantic-kernel) applications.
 They allow you to connect to external data sources and give large language models tools to be able to
 interact with native functions and API services.
 
@@ -21,16 +21,23 @@ and encourage developers to use them for their own applications. This hackathon 
 
 **How:** Follow the getting started guides for creating a plugin
 - [C# - Semantic Kernel ChatGPT plugin starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-csharp-chatgpt-plugin)
-- [Python]()
+- [Python - Semantic Kernel Python Flask (and plugin) Starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-python-flask)
 
-
-## **Prizes:** 🚀 🎁
+## Prizes 🚀 🎁
 We'll have the following categories
 - **Most useful for the enterprise**: Interview on the Semantic Kernel DevBlog & an SK T-Shirt
 - **Most fun and creative:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
 - **Commmunity Favorite:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
 
-## Code of Conduct
+## Submission
+To submit your plugin, please fill out this [form](https://aka.ms/sk-hackathon-plugin-submission)! Once we pass the deadline, the team will begin reviewing. The community favorite will be voted on Discord.
+
+# Join the community
+- Star the [repo](https://github.com/microsoft/semantic-kernel)!
+- Join the [Semantic Kernel Discord community](https://aka.ms/SKDiscord)
+- Attend [regular office hours and SK community events](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
+
+# Code of Conduct
 
 This project has adopted the
 [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -39,7 +46,7 @@ For more information see the
 or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
 with any additional questions or comments.
 
-## License
+# License
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 
