@@ -1,33 +1,41 @@
-# Project
+# Semantic Kernel Plugins
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Plugins are at the heart of unlocking more potential with your Semantic Kernel applications.
+They allow you to connect to external data sources and give large language models tools to be able to
+interact with native functions and API services.
 
-As the maintainer of this project, please make a few updates:
+# Want to test your plugins?
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+If you want to try out your plugins and you do not have a ChatGPT plus subscription or are off the waitlist, you can test this using the Semantic Kernel Copilot Chat!
 
-## Contributing
+See [this tutorial]() for how to do get set up.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+# SK Plugins Hackathon #1 (7/18/23 - 7/25/23)
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+**What:** Build a Semantic Kernel Plugin and compete for glory and prizes!
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+**When:** Submissions are open July 18, 2023 12 AM PST to July 25, 2023 12 AM PST.
 
-## Trademarks
+**Why:** Microsoft is standardizing around the [plugin architecture]() for all of its internal AI copilots
+and encourage developers to use them for their own applications. This hackathon serves to jumpstart a larger plugin ecosystem that are valuable to the broader community.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+**How:** Follow this [getting started guide]() for templates in C# and Python that you can use to get started.
+
+**Prizes:** We'll have the following categories
+- **Most useful for the enterprise**: Interview on the Semantic Kernel DevBlog & an SK T-Shirt
+- **Most fun and creative:**: Interview on the Semantic Kernel DevBlog & an SK T-Shirt
+
+## Code of Conduct
+
+This project has adopted the
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the
+[Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)
+or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
+with any additional questions or comments.
+
+## License
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](LICENSE) license.
