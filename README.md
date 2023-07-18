@@ -6,34 +6,36 @@ interact with native functions and API services.
 
 # Want to test your plugins? ⚗️
 
-If you want to try out your plugins and you do not have a ChatGPT plus subscription or are off the waitlist, you can test this directly using the Semantic Kernel!
+If you want to try out your plugins and you do not have a ChatGPT plus subscription or are off the waitlist, you can test this directly **for free** using the Semantic Kernel!
 
-See [this tutorial](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/chatgpt-plugins) for how to do get set up.
+See [this tutorial doc](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/chatgpt-plugins) or watch the [video](https://youtu.be/W_xF8PcdT78) for how to get set up.
 
 # SK Plugins Hackathon #1 (7/18/23 - 7/25/23) 📢
 
 **What:** Build a Semantic Kernel Plugin and compete for glory and prizes!
 
-**When:** Submissions are open July 18, 2023 12 AM PST to July 25, 2023 12 AM PST.
+**When:** Submissions are open July 18, 2023 2 PM PST to July 25, 2023 5 PM PST.
 
 **Why:** Microsoft is standardizing around the [plugin architecture](https://learn.microsoft.com/en-us/semantic-kernel/ai-orchestration/plugins?tabs=Csharp) for all of its internal AI copilots
 and encourage developers to use them for their own applications. This hackathon serves to jumpstart a larger plugin ecosystem that is valuable to the broader community.
 
 **How:** Follow the getting started guides for creating a plugin
-- [C# - Semantic Kernel ChatGPT plugin starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-csharp-chatgpt-plugin)
-- [Python - Semantic Kernel Python Flask (and plugin) Starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-python-flask)
+- **C#** - [(Video)](https://youtu.be/T7XLn11rpYI) | [(Repo) Semantic Kernel ChatGPT plugin starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-csharp-chatgpt-plugin)
+- **Python** - [(Video)]() | [(Repo) Semantic Kernel Python Flask (and plugin) Starter](https://github.com/microsoft/semantic-kernel-starters/tree/main/sk-python-flask)
 
 ## Prizes 🚀 🎁
-We'll have the following categories
-- **Most useful for the enterprise**: Interview on the Semantic Kernel DevBlog & an SK T-Shirt
-- **Most fun and creative:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
-- **Commmunity Favorite:** Interview on the Semantic Kernel DevBlog & an SK T-Shirt
+We'll have the following categories for judging:
+- **Most useful for the enterprise** 
+- **Most fun and creative** 
+- **Commmunity Favorite**
+
+Prizes will be announced throughout the week. Some include an exclusive interview feature on the Semantic Kernel DevBlog and a customized Semantic Kernel T-Shirt. Stay tuned for more!
 
 ## Submission
 To submit your plugin, please fill out this [form](https://aka.ms/sk-hackathon-plugin-submission)! Once we pass the deadline, the team will begin reviewing. The community favorite will be voted on Discord.
 
 # Join the community
-- Star the [repo](https://github.com/microsoft/semantic-kernel)!
+- Star the [Semantic Kernel repo](https://github.com/microsoft/semantic-kernel)!
 - Join the [Semantic Kernel Discord community](https://aka.ms/SKDiscord)
 - Attend [regular office hours and SK community events](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md)
 
