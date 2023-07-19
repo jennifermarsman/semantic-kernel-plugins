@@ -27,7 +27,7 @@ and encourage developers to use them for their own applications. This hackathon 
 We'll have the following categories for judging:
 - **Most useful for the enterprise** 
 - **Most fun and creative** 
-- **Commmunity Favorite**
+- **Community Favorite**
 
 Prizes will be announced throughout the week. Some include an exclusive interview feature on the Semantic Kernel DevBlog and a customized Semantic Kernel T-Shirt. Stay tuned for more!
 
